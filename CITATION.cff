@@ -1,19 +1,12 @@
 cff-version: 1.2.0
-message: Please cite the O3 manuscript when using this software.
-type: article
+message: "If you use the O3 guidelines, please cite it as below."
+title: "The O3 guidelines: open data, open code, and open infrastructure for sustainable curated scientific resources"
 authors:
-- family-names: "Hoyt"
-  given-names: "Charles Tapley"
-  orcid: "https://orcid.org/0000-0003-4423-4370"
-- family-names: "Gyori"
-  given-names: "Benjamin M."
-  orcid: "https://orcid.org/0000-0001-9439-5346"
-doi: 10.1038/s41597-024-03406-w
-identifiers:
-  - type: doi
-    value: 10.1038/s41597-024-03406-w
-  - type: pubmed
-    value: 38811583
+  - family-names: Hoyt
+    given-names: Charles Tapley
+    orcid: 0000-0003-4423-4370
+version: 0.5.2-dev
+url: "https://github.com/biopragmatics/o3"
 keywords:
   - open code
   - FAIR
@@ -22,4 +15,16 @@ keywords:
   - sustainability
   - software sustainability
   - data sustainability
-title: "The O3 guidelines: open data, open code, and open infrastructure for sustainable curated scientific resources"
+preferred-citation:
+  type: article
+  title: "Improving reproducibility of cheminformatics workflows with chembl-downloader"
+  authors:
+    - family-names: Hoyt
+      given-names: Charles Tapley
+      orcid: 0000-0003-4423-4370
+    - family-names: Gyori
+      given-names: Benjamin M.
+      orcid: 0000-0001-9439-5346
+  date: 2025
+  doi: 10.1038/s41597-024-03406-w
+  url: https://doi.org/10.1038/s41597-024-03406-w
