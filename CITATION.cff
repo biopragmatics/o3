@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: Please cite the O3 manuscript when using this software.
+type: article
+authors:
+- family-names: "Hoyt"
+  given-names: "Charles Tapley"
+  orcid: "https://orcid.org/0000-0003-4423-4370"
+- family-names: "Gyori"
+  given-names: "Benjamin M."
+  orcid: "https://orcid.org/0000-0001-9439-5346"
+doi: 10.1038/s41597-024-03406-w
+identifiers:
+  - type: doi
+    value: 10.1038/s41597-024-03406-w
+  - type: pubmed
+    value: 38811583
+keywords:
+  - open code
+  - FAIR
+  - open data
+  - open infrastructure
+  - sustainability
+  - software sustainability
+  - data sustainability
+title: "The O3 guidelines: open data, open code, and open infrastructure for sustainable curated scientific resources"
