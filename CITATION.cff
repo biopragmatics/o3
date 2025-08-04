@@ -17,7 +17,7 @@ keywords:
   - data sustainability
 preferred-citation:
   type: article
-  title: "Improving reproducibility of cheminformatics workflows with chembl-downloader"
+  title: "The O3 guidelines: open data, open code, and open infrastructure for sustainable curated scientific resources"
   authors:
     - family-names: Hoyt
       given-names: Charles Tapley
@@ -28,3 +28,6 @@ preferred-citation:
   date: 2025
   doi: 10.1038/s41597-024-03406-w
   url: https://doi.org/10.1038/s41597-024-03406-w
+  journal: Scientific Data
+  volume: 11
+  pages: 547
